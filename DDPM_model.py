@@ -1,5 +1,6 @@
 ''' 
-This script does conditional image generation on LIDC, using a diffusion model
+This file implement Denoising Diffusion Model.
+Code is tailored to the LIDC images and is based on listed below sources:
 
 This code is modified from,
 https://github.com/cloneofsimo/minDiffusion
